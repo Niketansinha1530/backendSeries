@@ -1,0 +1,22 @@
+empty node application(creation)
+*npm init
+
+entry point is file where we start executing stuff.
+
+script command helps to run file.
+we now add start command in package.json
+so now no need to run through node index.json
+now we write npm run start
+
+
+express is web framework
+express helps to create server.
+install express by
+* npm install express
+
+//documentation
+//https://expressjs.com/
+
+//.evn file not in deploy use for hiding private data.
+https://www.npmjs.com/package/dotenv
+//install  //npm i dotenv
