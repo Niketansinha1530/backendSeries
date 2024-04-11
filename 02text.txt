@@ -1,0 +1,15 @@
+//how to use mongoose
+
+npm install mongoose
+
+in models file
+/*
+import mongoose from "mongoose"
+
+const userSchema=new mongoose.Schema({});
+
+export const User = mongoose.models("User",userSchema);
+*/
+https://stackblitz.com/edit/stackblitz-starters-pwrrhn?description=&file=models%2Ftodo%2Fuser.models.js,models%2Ftodo%2Ftodo.models.js,models%2Ftodo%2Fsubtodo.models.js&title=Express%20Starter
+
+https://stackblitz.com/edit/stackblitz-starters-pwrrhn?file=models%2FhospitalManagement%2Fhospital.models.js

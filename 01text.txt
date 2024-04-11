@@ -20,3 +20,8 @@ install express by
 //.evn file not in deploy use for hiding private data.
 https://www.npmjs.com/package/dotenv
 //install  //npm i dotenv
+
+
+* Moon modler ek website jaha pay hum structure define kartay hai(Er diagram) or pura code khud likh jatta hai moongose kay liya.
+
+//kuch aise website ho madadat kartay hai ki kuch bhi install mat karao bass tum kam karloo like codesandbox,github codespace , stackblitz
