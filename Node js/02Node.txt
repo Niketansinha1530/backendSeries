@@ -1,0 +1,5 @@
+* Before create any project with Node Js we need to rum *  npm init *.
+* By useing npm init they create package.json which is project configuration file that store information of the project.
+
+* we can add dependencies in our project and their configuration written inside package.json.
+* we distribute Work in different different module so we can reuse the code (No need to write everything one file).

@@ -1,0 +1,18 @@
+Every browswer have their own javascript engine like chrome use V8 engine and firefox use spidermonkey and safari use apple.
+v8 engine is embeded with c++ and form Node js.
+Node js is run time environment For JavaScript.
+Ryan Dahl merge V8 engine and C++.
+
+
+*Benfits for Node js
+ 1. You can run Js outside of the browser.
+ 2. JavaScript can talk of native machine because of C++.
+ 3. You can create webservers in Javascript Language.
+
+ LTS stand for Long term Support Version.
+
+ To Check Node is install in your system ? write node -v. and npm -v.
+
+ /* console.log(window);
+ReferenceError: window is not defined
+*/
