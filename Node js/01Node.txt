@@ -13,6 +13,7 @@ Ryan Dahl merge V8 engine and C++.
 
  To Check Node is install in your system ? write node -v. and npm -v.
 
- /* console.log(window);
-ReferenceError: window is not defined
+ /*
+  console.log(window);
+  ReferenceError: window is not defined
 */

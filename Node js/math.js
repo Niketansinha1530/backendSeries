@@ -15,7 +15,12 @@ module.exports={
 addFn,
 subFn
 }
-
+/*
+module.exports={
+   add: addFn,
+   sub: subFn
+    }
+*/
 /*
 exports.add=(a,b)=>{
    return a*b;

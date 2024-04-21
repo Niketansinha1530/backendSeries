@@ -1,0 +1,8 @@
+Node.js uses a single thread for its event loop, which is responsible for handling all incoming and outgoing requests. However, Node.js can also use multiple threads for CPU-intensive tasks, such as file processing or database queries. This is done using the worker threads module, which was introduced in Node.js 10.
+
+
+Worker threads allow you to create new threads that can run independently of the main thread. This can be useful for tasks that would block the event loop, such as reading a large file or performing a complex calculation.
+
+by default thread pool no of workers is 4 and we increase.
+
+no of cpus cores no of thread in your systems.

@@ -1,0 +1,11 @@
+{
+  "name": "httpserver",
+  "version": "1.0.0",
+  "description": "learn how to create server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Niketan sinha",
+  "license": "ISC"
+}
