@@ -1,0 +1,18 @@
+REST API - JSON
+//https://www.mockaroo.com/
+
+GET/api/users -list all users
+
+GET/api/user/1 -get teh user with id 1
+GET/api/user/2 -get teh user with id 2
+
+*Dynamic Path paramets
+
+Get/api/users/:id
+:id -> variable /Dynamic
+
+POST/api/users -create new user
+
+PATCH/api/user/2 -edit the user with id 1
+
+DELTE/api/user/2 -delete the user with id 1

@@ -1,0 +1,14 @@
+{
+  "name": "restapiproject",
+  "version": "1.0.0",
+  "description": "Working of Api",
+  "main": "index.js",
+  "scripts": {
+    "start": " node index.js"
+  },
+  "author": "Niketan sinha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

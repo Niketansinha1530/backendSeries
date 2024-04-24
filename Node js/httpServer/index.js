@@ -9,7 +9,7 @@ const myServer=http.createServer((req,res)=>{
         switch (req.url) {
             case '/': res.end("Home Page")
                 break;
-                case '/about': fs.readFile("./serverCreate.txt", "utf-8", (err, data) => {
+            case '/about': fs.readFile("./serverCreate.txt", "utf-8", (err, data) => {
                     if (err) {
                         console.error("Error reading file:", err);
                         res.writeHead(500, {'Content-Type': 'text/plain'});
